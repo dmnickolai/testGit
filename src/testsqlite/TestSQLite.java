@@ -8,7 +8,7 @@ package testsqlite;
 import java.sql.*;
 
 /**
- *
+ *  Also used to test Git Branching
  * @author Dennis
  */
 public class TestSQLite {
