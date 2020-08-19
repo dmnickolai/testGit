@@ -12,4 +12,8 @@ package testsqlite;
 public class DummyClass {
     // new class for Git
     //add it Git
+    DummyClass() {
+        super();
+        System.out.println("in Constructor");
+    }
 }
